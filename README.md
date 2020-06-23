@@ -1,2 +1,2 @@
 # auto-shop-app
-Simple Winforms app for managina an auto shop.
+Simple Winforms app for managing an auto shop.
